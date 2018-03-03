@@ -5,7 +5,7 @@ Implementation of plasma effect in javascript.
 I really like various graphical effects used in demos created for the demoscene events. In this project I implemented a well-known effect called fire or flames.
 
 ## What are the features?
-You will see a fire animation in the web browser. When you move the mouse pointer over the effect, it will change the flames real in the animation. 
+You will see a fire animation in the web browser. When you move the mouse pointer over the effect, it will change the flames in the animation. 
 
 ## What are Future Plans for this Project?
 * Additional, more sophisticated and realistic color calculations
